@@ -13,7 +13,7 @@
 
 
 [<img align="left" alt="alpesh_codes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br /><br />- alpeshjadav11899@gmail.com
+<t /> - alpeshjadav11899@gmail.com
 
 <br />
 

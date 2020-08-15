@@ -1,16 +1,21 @@
 ### Hi there 👋
+Hi there, I'm Alpesh Jadav  👋
+Website Twitter Follow
 
-<!--
-**Alpesh-Jadav/Alpesh-jadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer !
+🔭 I’m currently working on a my portfolio!
+🌱 I’m currently learning responsive design
+🥅 2020 Goals: Contribute more to Open Source projects
+⚡ Fun fact: I love to listening music.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+codeSTACKr.comcodeSTACKr | YouTubecodeSTACKr | TwittercodeSTACKr | LinkedIncodeSTACKr | Instagram
+
+
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptReactNode.jsMongoDBGitGitHubTerminal
+
+
+⚡ Recent Github Activity
+⚡ Github Stats

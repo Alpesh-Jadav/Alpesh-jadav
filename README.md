@@ -41,14 +41,6 @@
 <br />
 <br />
 
----
 
-
----
-
-
-
-
----
 
 [instagram]: https://instagram.com/codeSTACKr

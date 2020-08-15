@@ -13,7 +13,7 @@
 
 
 [<img align="left" alt="alpesh_codes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="alpeshjadav11899@gmail.com | Gmail" width="22px" src="https://img.icons8.com/fluent/96/gmail.png" />][gmail]
+- alpeshjadav11899@gmail.com
 
 <br />
 
@@ -37,7 +37,6 @@
 <br />
 
 
-[gmail]: alpeshjadav11899@gmail.com
 [instagram]: https://instagram.com/alpesh_codes
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B

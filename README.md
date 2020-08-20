@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my portfolio!
 - 🌱 I’m currently learning responsive development
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen music
+- ⚡ Fun fact: I love to listen music while coding.
 
 
 ### Connect with me:

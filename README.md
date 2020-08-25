@@ -4,8 +4,8 @@
 ## I'm a Frontend Developer !
 
 - 🔭 I’m currently working on Spotify Clone!
-- 🌱 I’m currently learning responsive development
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning soft skills.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen music while coding.
 
 

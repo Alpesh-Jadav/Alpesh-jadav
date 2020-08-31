@@ -5,8 +5,9 @@
 
 - 🔭 I’m currently working on Spotify Clone!
 - 🌱 I’m currently learning soft skills.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen music while coding.
+
+#### 🥅 2020 Goals: Contribute more to Open Source projects.
 
 
 ### Connect with me:

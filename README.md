@@ -3,7 +3,7 @@
 
 ## I'm a Frontend Developer !
 
-- 🔭 I’m currently working on my Portfolio!
+- 🔭 I’m currently employed!
 - 🌱 I’m currently learning soft skills.
 - ⚡ Fun fact: I love to listen music while coding.
 

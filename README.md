@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning soft skills.
 - ⚡ Fun fact: I love to listen music while coding.
 
-#### 🥅 2020 Goals: Contribute more to Open Source projects.
+#### 🥅 2020 Goals: Set carrier.
 
 
 ### Connect with me:
